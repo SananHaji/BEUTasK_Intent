@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BEU TasK Intent</string>
+    <string name="has_not_lesson_name">Has not lesson name</string>
+    <string name="set_lesson_name">set lesson name</string>
+    <string name="enter_lesson_name">Enter lesson name</string>
+    <string name="set_lesson_name_and_return_back">set lesson name and return back</string>
+</resources>
